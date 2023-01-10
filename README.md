@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gomkalevaishnavi
-- 👀 I’m interested in software development
+- 👀 I’m interested in software developer.
 - 🌱 I’m currently  working on projects.
 - 💞️ I’m looking to collaborate on project.
 - 📫  I have uploaded projects.
